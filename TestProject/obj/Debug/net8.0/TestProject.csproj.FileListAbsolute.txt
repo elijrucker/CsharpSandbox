@@ -1,0 +1,14 @@
+/Users/elirucker/Workspace/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/elirucker/Workspace/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/elirucker/Workspace/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/elirucker/Workspace/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/elirucker/Workspace/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/elirucker/Workspace/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
