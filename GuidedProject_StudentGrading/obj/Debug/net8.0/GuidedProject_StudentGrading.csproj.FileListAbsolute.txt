@@ -1,0 +1,15 @@
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/bin/Debug/net8.0/GuidedProject_StudentGrading
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/bin/Debug/net8.0/GuidedProject_StudentGrading.deps.json
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/bin/Debug/net8.0/GuidedProject_StudentGrading.runtimeconfig.json
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/bin/Debug/net8.0/GuidedProject_StudentGrading.dll
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/bin/Debug/net8.0/GuidedProject_StudentGrading.pdb
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.AssemblyInfoInputs.cache
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.AssemblyInfo.cs
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.csproj.CoreCompileInputs.cache
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.sourcelink.json
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.dll
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/refint/GuidedProject_StudentGrading.dll
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.pdb
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/GuidedProject_StudentGrading.genruntimeconfig.cache
+/Users/elirucker/Workspace/CsharpProjects/GuidedProject_StudentGrading/obj/Debug/net8.0/ref/GuidedProject_StudentGrading.dll
