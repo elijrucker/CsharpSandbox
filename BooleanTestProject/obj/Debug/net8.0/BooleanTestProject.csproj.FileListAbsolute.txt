@@ -1,0 +1,15 @@
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/bin/Debug/net8.0/BooleanTestProject
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/bin/Debug/net8.0/BooleanTestProject.deps.json
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/bin/Debug/net8.0/BooleanTestProject.runtimeconfig.json
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/bin/Debug/net8.0/BooleanTestProject.dll
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/bin/Debug/net8.0/BooleanTestProject.pdb
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.AssemblyInfoInputs.cache
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.AssemblyInfo.cs
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.csproj.CoreCompileInputs.cache
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.sourcelink.json
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.dll
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/refint/BooleanTestProject.dll
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.pdb
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/BooleanTestProject.genruntimeconfig.cache
+/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/Debug/net8.0/ref/BooleanTestProject.dll
