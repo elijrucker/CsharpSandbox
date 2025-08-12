@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/elirucker/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/BooleanTestProject.csproj",
+      "projectUniqueName": "/workspaces/CsharpSandbox/BooleanTestProject/BooleanTestProject.csproj",
       "projectName": "BooleanTestProject",
-      "projectPath": "/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/BooleanTestProject.csproj",
-      "packagesPath": "/Users/elirucker/.nuget/packages/",
-      "outputPath": "/Users/elirucker/Workspace/CsharpProjects/BooleanTestProject/obj/",
+      "projectPath": "/workspaces/CsharpSandbox/BooleanTestProject/BooleanTestProject.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/CsharpSandbox/BooleanTestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/elirucker/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
