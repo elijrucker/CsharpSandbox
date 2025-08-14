@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooleanTestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e57eb2f87545951114c490274d34deba39fc9ac8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+469c958c5a1b60e07f5b0ba680a2b7b8371b2a41")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooleanTestProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooleanTestProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

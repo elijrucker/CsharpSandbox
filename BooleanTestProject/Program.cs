@@ -26,9 +26,40 @@
 // Console.WriteLine(!pangram.Contains("fox"));
 // Console.WriteLine(!pangram.Contains("cow"));
 
-int a = 7;
-int b = 6;
-Console.WriteLine(a != b); // output: True
-string s1 = "Hello";
-string s2 = "Hello";
-Console.WriteLine(s1 != s2); // output: False
+// int a = 7;
+// int b = 6;
+// Console.WriteLine(a != b); // output: True
+// string s1 = "Hello";
+// string s2 = "Hello";
+// Console.WriteLine(s1 != s2); // output: False
+
+// int saleAmount = 1001;
+// // int discount = saleAmount > 1000 ? 100 : 50;
+// Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
+
+// Random coin = new Random();
+// int flip = coin.Next(0, 2);
+// Console.WriteLine((flip == 0) ? "Heads" : "Tails");
+
+string permission = "Technician";
+int level = 15;
+if (permission.Contains("Admin") && (level > 55))
+{
+    Console.WriteLine("Welcome, Super Admin user.");
+}
+else if (permission.Contains("Admin") && (level <= 55))
+{
+    Console.WriteLine("Welcome, Admin user.");
+}
+else if (permission.Contains("Manager") && (level >= 20))
+{
+    Console.WriteLine("Contact an Admin for access.");
+}
+else if (permission.Contains("Manager") && (level < 20))
+{
+    Console.WriteLine("You do not have sufficient privileges.");
+}
+else
+{
+    Console.WriteLine("You do not have sufficient privileges");
+}
