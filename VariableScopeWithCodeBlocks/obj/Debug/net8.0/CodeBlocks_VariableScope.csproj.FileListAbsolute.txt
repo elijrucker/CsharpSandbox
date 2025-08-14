@@ -1,0 +1,15 @@
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/bin/Debug/net8.0/CodeBlocks_VariableScope
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/bin/Debug/net8.0/CodeBlocks_VariableScope.deps.json
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/bin/Debug/net8.0/CodeBlocks_VariableScope.runtimeconfig.json
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/bin/Debug/net8.0/CodeBlocks_VariableScope.dll
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/bin/Debug/net8.0/CodeBlocks_VariableScope.pdb
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.AssemblyInfoInputs.cache
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.AssemblyInfo.cs
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.csproj.CoreCompileInputs.cache
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.sourcelink.json
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.dll
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/refint/CodeBlocks_VariableScope.dll
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.pdb
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/CodeBlocks_VariableScope.genruntimeconfig.cache
+/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/Debug/net8.0/ref/CodeBlocks_VariableScope.dll

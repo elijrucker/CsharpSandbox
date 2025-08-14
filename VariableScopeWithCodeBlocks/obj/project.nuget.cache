@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MZngfPMS9js=",
+  "dgSpecHash": "9iOZsJsx1ok=",
   "success": true,
-  "projectFilePath": "/workspaces/CsharpSandbox/CodeBlocks_VariableScope/CodeBlocks_VariableScope.csproj",
+  "projectFilePath": "/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/CodeBlocks_VariableScope.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

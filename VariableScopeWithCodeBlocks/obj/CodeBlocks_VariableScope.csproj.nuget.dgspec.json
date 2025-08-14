@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CsharpSandbox/CodeBlocks_VariableScope/CodeBlocks_VariableScope.csproj": {}
+    "/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/CodeBlocks_VariableScope.csproj": {}
   },
   "projects": {
-    "/workspaces/CsharpSandbox/CodeBlocks_VariableScope/CodeBlocks_VariableScope.csproj": {
+    "/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/CodeBlocks_VariableScope.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CsharpSandbox/CodeBlocks_VariableScope/CodeBlocks_VariableScope.csproj",
+        "projectUniqueName": "/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/CodeBlocks_VariableScope.csproj",
         "projectName": "CodeBlocks_VariableScope",
-        "projectPath": "/workspaces/CsharpSandbox/CodeBlocks_VariableScope/CodeBlocks_VariableScope.csproj",
+        "projectPath": "/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/CodeBlocks_VariableScope.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/CsharpSandbox/CodeBlocks_VariableScope/obj/",
+        "outputPath": "/workspaces/CsharpSandbox/VariableScopeWithCodeBlocks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
