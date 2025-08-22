@@ -1,0 +1,15 @@
+/workspaces/CsharpSandbox/SwitchCaseConstruct/bin/Debug/net8.0/SwitchCaseConstruct
+/workspaces/CsharpSandbox/SwitchCaseConstruct/bin/Debug/net8.0/SwitchCaseConstruct.deps.json
+/workspaces/CsharpSandbox/SwitchCaseConstruct/bin/Debug/net8.0/SwitchCaseConstruct.runtimeconfig.json
+/workspaces/CsharpSandbox/SwitchCaseConstruct/bin/Debug/net8.0/SwitchCaseConstruct.dll
+/workspaces/CsharpSandbox/SwitchCaseConstruct/bin/Debug/net8.0/SwitchCaseConstruct.pdb
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.AssemblyInfoInputs.cache
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.AssemblyInfo.cs
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.csproj.CoreCompileInputs.cache
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.sourcelink.json
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.dll
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/refint/SwitchCaseConstruct.dll
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.pdb
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/SwitchCaseConstruct.genruntimeconfig.cache
+/workspaces/CsharpSandbox/SwitchCaseConstruct/obj/Debug/net8.0/ref/SwitchCaseConstruct.dll
