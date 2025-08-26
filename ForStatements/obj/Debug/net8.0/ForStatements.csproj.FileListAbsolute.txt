@@ -1,0 +1,15 @@
+/workspaces/CsharpSandbox/ForStatements/bin/Debug/net8.0/ForStatements
+/workspaces/CsharpSandbox/ForStatements/bin/Debug/net8.0/ForStatements.deps.json
+/workspaces/CsharpSandbox/ForStatements/bin/Debug/net8.0/ForStatements.runtimeconfig.json
+/workspaces/CsharpSandbox/ForStatements/bin/Debug/net8.0/ForStatements.dll
+/workspaces/CsharpSandbox/ForStatements/bin/Debug/net8.0/ForStatements.pdb
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.AssemblyInfoInputs.cache
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.AssemblyInfo.cs
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.csproj.CoreCompileInputs.cache
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.sourcelink.json
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.dll
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/refint/ForStatements.dll
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.pdb
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ForStatements.genruntimeconfig.cache
+/workspaces/CsharpSandbox/ForStatements/obj/Debug/net8.0/ref/ForStatements.dll
