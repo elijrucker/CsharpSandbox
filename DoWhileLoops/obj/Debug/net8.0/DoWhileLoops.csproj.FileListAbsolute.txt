@@ -1,0 +1,15 @@
+/workspaces/CsharpSandbox/DoWhileLoops/bin/Debug/net8.0/DoWhileLoops
+/workspaces/CsharpSandbox/DoWhileLoops/bin/Debug/net8.0/DoWhileLoops.deps.json
+/workspaces/CsharpSandbox/DoWhileLoops/bin/Debug/net8.0/DoWhileLoops.runtimeconfig.json
+/workspaces/CsharpSandbox/DoWhileLoops/bin/Debug/net8.0/DoWhileLoops.dll
+/workspaces/CsharpSandbox/DoWhileLoops/bin/Debug/net8.0/DoWhileLoops.pdb
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.AssemblyInfoInputs.cache
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.AssemblyInfo.cs
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.csproj.CoreCompileInputs.cache
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.sourcelink.json
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.dll
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/refint/DoWhileLoops.dll
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.pdb
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/DoWhileLoops.genruntimeconfig.cache
+/workspaces/CsharpSandbox/DoWhileLoops/obj/Debug/net8.0/ref/DoWhileLoops.dll
