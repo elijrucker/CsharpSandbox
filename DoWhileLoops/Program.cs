@@ -47,39 +47,66 @@
 /*
     Unit 5 - Code Project 1
 */
-string? readResult;
-string valueEntered = "";
-int numValue = 0;
-bool validEntry = false;
+// string? readResult;
+// string valueEntered = "";
+// int numValue = 0;
+// bool validEntry = false;
 
-Console.WriteLine("Please enter a number between 5 and 10");
-do
-{
-    readResult = Console.ReadLine();
-    if (readResult != null)
-    {
-        valueEntered = readResult;
-    }
+// Console.WriteLine("Please enter a number between 5 and 10");
+// do
+// {
+//     readResult = Console.ReadLine();
+//     if (readResult != null)
+//     {
+//         valueEntered = readResult;
+//     }
 
-    validEntry = int.TryParse(valueEntered, out numValue);
+//     validEntry = int.TryParse(valueEntered, out numValue);
 
-    if (validEntry == true)
-    {
-        if (numValue <= 5 || numValue >= 10)
-        {
-            validEntry = false;
-            Console.WriteLine($"You entered {numValue}. Please enter a number between 5 and 10.");
-        }
-    }
-    else
-    {
-        Console.WriteLine("Sorry, you entered an invalid number, please try again.");
-    }
-} while (validEntry == false);
-Console.WriteLine($"Your input value ({numValue}) has been accepted. Thank you for your input.");
-readResult = Console.ReadLine();
+//     if (validEntry == true)
+//     {
+//         if (numValue <= 5 || numValue >= 10)
+//         {
+//             validEntry = false;
+//             Console.WriteLine($"You entered {numValue}. Please enter a number between 5 and 10.");
+//         }
+//     }
+//     else
+//     {
+//         Console.WriteLine("Sorry, you entered an invalid number, please try again.");
+//     }
+// } while (validEntry == false);
+// Console.WriteLine($"Your input value ({numValue}) has been accepted. Thank you for your input.");
+// readResult = Console.ReadLine();
 
 
 /*
     Unit 5 - Code Project 2
 */
+string? readResult;
+string roleName = "";
+bool validEntry = false;
+
+do
+{
+    Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
+    readResult = Console.ReadLine();
+    if (readResult != null)
+    {
+        roleName = readResult.Trim();
+    }
+
+    if (roleName.ToLower() == "administrator"
+        || roleName.ToLower() == "manager"
+        || roleName.ToLower() == "user")
+    {
+        validEntry = true;
+    }
+    else
+    {
+        Console.WriteLine($"The role name you entered, \"{roleName}\" does not exist.");
+    }
+} while (validEntry == false);
+
+Console.WriteLine($"Your input value ({roleName}) has been accepted");
+readResult = Console.ReadLine();
