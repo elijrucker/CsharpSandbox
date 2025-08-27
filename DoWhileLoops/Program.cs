@@ -24,21 +24,62 @@
     Unit 3 - RPG Challenge
 */
 
-int heroHealth = 10;
-int monsterHealth = 10;
-Random dice = new Random();
+// int heroHealth = 10;
+// int monsterHealth = 10;
+// Random dice = new Random();
 
+// do
+// {
+//     int roll = dice.Next(1, 11);
+//     monsterHealth -= roll;
+//     Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monsterHealth} health.");
+
+//     if (monsterHealth <= 0) continue;
+
+//     roll = dice.Next(1, 11);
+//     heroHealth -= roll;
+//     Console.WriteLine($"Hero was damaged and lost {roll} and now has {heroHealth} health.");
+// } while ((heroHealth > 0) && (monsterHealth > 0));
+
+// Console.WriteLine( heroHealth > monsterHealth ? "Hero wins!" : "Monster wins!");
+
+
+/*
+    Unit 5 - Code Project 1
+*/
+string? readResult;
+string valueEntered = "";
+int numValue = 0;
+bool validEntry = false;
+
+Console.WriteLine("Please enter a number between 5 and 10");
 do
 {
-    int roll = dice.Next(1, 11);
-    monsterHealth -= roll;
-    Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monsterHealth} health.");
+    readResult = Console.ReadLine();
+    if (readResult != null)
+    {
+        valueEntered = readResult;
+    }
 
-    if (monsterHealth <= 0) continue;
+    validEntry = int.TryParse(valueEntered, out numValue);
 
-    roll = dice.Next(1, 11);
-    heroHealth -= roll;
-    Console.WriteLine($"Hero was damaged and lost {roll} and now has {heroHealth} health.");
-} while ((heroHealth > 0) && (monsterHealth > 0));
+    if (validEntry == true)
+    {
+        if (numValue <= 5 || numValue >= 10)
+        {
+            validEntry = false;
+            Console.WriteLine($"You entered {numValue}. Please enter a number between 5 and 10.");
+        }
+    }
+    else
+    {
+        Console.WriteLine("Sorry, you entered an invalid number, please try again.");
+    }
+} while (validEntry == false);
+Console.WriteLine($"Your input value ({numValue}) has been accepted. Thank you for your input.");
+readResult = Console.ReadLine();
 
-Console.WriteLine( heroHealth > monsterHealth ? "Hero wins!" : "Monster wins!");
+
+/*
+    Unit 5 - Code Project 2
+*/
