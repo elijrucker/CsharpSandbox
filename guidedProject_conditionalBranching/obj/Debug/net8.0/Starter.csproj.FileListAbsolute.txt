@@ -1,0 +1,15 @@
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/bin/Debug/net8.0/Starter
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/bin/Debug/net8.0/Starter.deps.json
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/bin/Debug/net8.0/Starter.runtimeconfig.json
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/bin/Debug/net8.0/Starter.dll
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/bin/Debug/net8.0/Starter.pdb
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.sourcelink.json
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.dll
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/refint/Starter.dll
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.pdb
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/workspaces/CsharpSandbox/guidedProject_conditionalBranching/obj/Debug/net8.0/ref/Starter.dll
