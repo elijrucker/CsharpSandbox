@@ -207,6 +207,21 @@ do
                 }
             } while (animalPhysicalDescription == "");
 
+            // get a description of the pet's personality - animalPersonalityDescription can be blank.
+            do
+            {
+                Console.WriteLine("Enter a description of the pet's personality (likes, or dislikes, tricks, energy level)");
+                readResult = Console.ReadLine();
+                if (readResult != null)
+                {
+                    animalPersonalityDescription = readResult.ToLower();
+                    if (animalPersonalityDescription == "")
+                    {
+                        animalPersonalityDescription = "tbd";
+                    }
+                }
+            } while (animalPersonalityDescription == "");
+
             if (petCount >= maxPets)
                 {
                     Console.WriteLine("We have reached our limit on the number of pets that we can manage.");
