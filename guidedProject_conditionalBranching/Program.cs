@@ -222,6 +222,21 @@ do
                 }
             } while (animalPersonalityDescription == "");
 
+            // get the pet's nickname. animialNickname can be blank.
+            do
+            {
+                Console.WriteLine("Enter a nickname for the pet");
+                readResult = Console.ReadLine();
+                if (readResult != null)
+                {
+                    animalNickname = readResult.ToLower();
+                    if (animalNickname == "")
+                    {
+                        animalNickname = "tbd";
+                    }
+                }
+            } while (animalNickname == "");
+
             if (petCount >= maxPets)
                 {
                     Console.WriteLine("We have reached our limit on the number of pets that we can manage.");
