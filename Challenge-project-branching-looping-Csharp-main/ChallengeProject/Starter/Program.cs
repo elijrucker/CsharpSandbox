@@ -288,16 +288,30 @@ do
         case "3":
             // Ensure animal ages and physical descriptions are complete
             /*
-                - Skip over any animal in ourAnimals where animalID = "" (default value)
-                - Display current animalID, prompt user for an updated value if data is missing/incomplete
                 - Confirm all values saved in petAge variables across ourAnimals array are numeric (valid)
                 - Confirm valid string assigned to animalPhysicalDescription for all animals in array
                 - Enforce numeric conversion for all values entered into animalAge
                 - Enforce non-null, and non-empty rules for animalPhysicalDescription
                 - Inform user when all data requirements are met, pause application, via 'enter' requirement
             */
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
+
+            // Skip over any animal in ourAnimals where animalID = "" (default value)
+            // Display current animalID
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    Console.WriteLine("\n" + ourAnimals[i, 0]);
+                    Console.WriteLine(ourAnimals[i, 1]);
+                    Console.WriteLine(ourAnimals[i, 2]);
+                    Console.WriteLine(ourAnimals[i, 3]);
+                }
+
+            }
+
+            // Prompt user for an updated value if data is missing/incomplete
+
+            Console.WriteLine("\nPress the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
 
