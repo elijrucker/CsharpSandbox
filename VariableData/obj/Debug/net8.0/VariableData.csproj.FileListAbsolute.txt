@@ -1,0 +1,15 @@
+/home/eli/Development/CsharpSandbox/VariableData/bin/Debug/net8.0/VariableData
+/home/eli/Development/CsharpSandbox/VariableData/bin/Debug/net8.0/VariableData.deps.json
+/home/eli/Development/CsharpSandbox/VariableData/bin/Debug/net8.0/VariableData.runtimeconfig.json
+/home/eli/Development/CsharpSandbox/VariableData/bin/Debug/net8.0/VariableData.dll
+/home/eli/Development/CsharpSandbox/VariableData/bin/Debug/net8.0/VariableData.pdb
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.GeneratedMSBuildEditorConfig.editorconfig
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.AssemblyInfoInputs.cache
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.AssemblyInfo.cs
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.csproj.CoreCompileInputs.cache
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.sourcelink.json
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.dll
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/refint/VariableData.dll
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.pdb
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/VariableData.genruntimeconfig.cache
+/home/eli/Development/CsharpSandbox/VariableData/obj/Debug/net8.0/ref/VariableData.dll
