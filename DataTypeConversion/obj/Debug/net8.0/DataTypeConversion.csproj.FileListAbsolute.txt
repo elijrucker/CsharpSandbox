@@ -1,0 +1,15 @@
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.AssemblyInfoInputs.cache
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.AssemblyInfo.cs
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.csproj.CoreCompileInputs.cache
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.sourcelink.json
+/home/eli/Development/CsharpSandbox/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion
+/home/eli/Development/CsharpSandbox/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.deps.json
+/home/eli/Development/CsharpSandbox/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.runtimeconfig.json
+/home/eli/Development/CsharpSandbox/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.dll
+/home/eli/Development/CsharpSandbox/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.pdb
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.dll
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/refint/DataTypeConversion.dll
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.pdb
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.genruntimeconfig.cache
+/home/eli/Development/CsharpSandbox/DataTypeConversion/obj/Debug/net8.0/ref/DataTypeConversion.dll
