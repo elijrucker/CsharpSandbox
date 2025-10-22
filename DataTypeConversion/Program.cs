@@ -42,17 +42,41 @@
 // int value2 = Convert.ToInt32(1.5m);
 // Console.WriteLine(value2);
 
-string value = "bad";
-int result = 0;
-if (int.TryParse(value, out result))
+// string value = "bad";
+// int result = 0;
+// if (int.TryParse(value, out result))
+// {
+//     Console.WriteLine($"Measurement: {result}");
+// }
+// else
+// {
+//     Console.WriteLine("Unable to report the measurement.");
+// }
+// if (result > 0)
+// {
+//     Console.WriteLine($"Measurement (w/ offset): {50 + result}");
+// }
+
+
+// -- UNIT 4 OF 9 --
+
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+
+decimal total = 0m;
+string message = "";
+
+foreach (string value in values)
 {
-    Console.WriteLine($"Measurement: {result}");
+    decimal number; // stores the TryParse 'out' value
+    if (decimal.TryParse(value, out number))
+    {
+        total += number;
+    }
+    else
+    {
+        message += value;
+    }
 }
-else
-{
-    Console.WriteLine("Unable to report the measurement.");
-}
-if (result > 0)
-{
-    Console.WriteLine($"Measurement (w/ offset): {50 + result}");
-}
+
+Console.WriteLine($"Message: {message}");
+Console.WriteLine($"Total: {total}");
