@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraysAndHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd2cc5dbb23d72c474c990299d365988e1d021aa")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f2e01cc2fa3eca342983844fcdb5877ebf49d19")]
+>>>>>>> d8c7125 (Unit 2/10, reverse the order of the pallets complete)
 [assembly: System.Reflection.AssemblyProductAttribute("ArraysAndHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraysAndHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

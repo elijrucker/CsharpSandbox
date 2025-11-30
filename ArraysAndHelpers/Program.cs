@@ -75,12 +75,13 @@ string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
 string[] orderArray = orderStream.Split(",");
 foreach (string order in orderArray)
 {
-    if (order.Length == 4)
-    {
-        System.Console.WriteLine(order);
-    }
-    else
-    {
-        System.Console.WriteLine(order + "\t- Error");
-    }
+    System.Console.WriteLine($"-- {pallet}");
+}
+// Reverse the order of the same pallet array
+System.Console.WriteLine("");
+System.Console.WriteLine("Reversed...");
+Array.Reverse(pallets);
+foreach (var pallet in pallets)
+{
+    System.Console.WriteLine($"-- {pallet}");
 }
