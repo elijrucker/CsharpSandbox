@@ -55,14 +55,32 @@
     Perform operations on arrays using helper methods in C#
     UNIT 5 OF 10
 */
-string pangram = "The quick brown fox jumps over the lazy dog";
-string[] pangramSplit = pangram.Split(' ');
-string[] newPangram = new string[pangramSplit.Length];
-for (int i = 0; i < pangramSplit.Length; i++)
+// string pangram = "The quick brown fox jumps over the lazy dog";
+// string[] pangramSplit = pangram.Split(' ');
+// string[] newPangram = new string[pangramSplit.Length];
+// for (int i = 0; i < pangramSplit.Length; i++)
+// {
+//     char[] letters = pangramSplit[i].ToCharArray();
+//     Array.Reverse(letters);
+//     newPangram[i] = new string(letters);
+// }
+// string result = String.Join(" ", newPangram);
+// System.Console.WriteLine(result);
+
+/*
+    Perform operations on arrays using helper methods in C#
+    UNIT 7 OF 10
+*/
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+string[] orderArray = orderStream.Split(",");
+foreach (string order in orderArray)
 {
-    char[] letters = pangramSplit[i].ToCharArray();
-    Array.Reverse(letters);
-    newPangram[i] = new string(letters);
+    if (order.Length == 4)
+    {
+        System.Console.WriteLine(order);
+    }
+    else
+    {
+        System.Console.WriteLine(order + "\t- Error");
+    }
 }
-string result = String.Join(" ", newPangram);
-System.Console.WriteLine(result);
