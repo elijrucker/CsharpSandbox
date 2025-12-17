@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormatingAlphaNumData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ae12cc3fc7c7256fbb2a1d4f7b43f39e72056d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb3160c285c68b69d86b1a55bcf8f7d5a1aea39")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormatingAlphaNumData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormatingAlphaNumData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
