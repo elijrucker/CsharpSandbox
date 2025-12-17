@@ -1,0 +1,15 @@
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/bin/Debug/net8.0/FormatingAlphaNumData
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/bin/Debug/net8.0/FormatingAlphaNumData.deps.json
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/bin/Debug/net8.0/FormatingAlphaNumData.runtimeconfig.json
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/bin/Debug/net8.0/FormatingAlphaNumData.dll
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/bin/Debug/net8.0/FormatingAlphaNumData.pdb
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.AssemblyInfoInputs.cache
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.AssemblyInfo.cs
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.csproj.CoreCompileInputs.cache
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.sourcelink.json
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.dll
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/refint/FormatingAlphaNumData.dll
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.pdb
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/FormatingAlphaNumData.genruntimeconfig.cache
+/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/Debug/net8.0/ref/FormatingAlphaNumData.dll
