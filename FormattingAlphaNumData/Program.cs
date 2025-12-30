@@ -82,7 +82,8 @@ string customerOffer = $"Our new product, {newProduct} offers a return of {newRe
 System.Console.WriteLine(customerAddress + customerProductData + customerOffer);
 Console.WriteLine("Here's a quick comparison:\n");
 
-string comparisonMessage = "";
+string comparisonMessage = $"{currentProduct}{currentReturn,16:P2}{currentProfit,16:C}\n" +
+    $"{newProduct}{newReturn,12:P2}{newProfit,16:C}";
 
 // Your logic here
 
