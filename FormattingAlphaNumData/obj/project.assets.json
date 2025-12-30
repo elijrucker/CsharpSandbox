@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/elirucker/.nuget/packages/": {}
+    "/home/eli/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/FormatingAlphaNumData.csproj",
+      "projectUniqueName": "/home/eli/Development/CsharpSandbox/FormattingAlphaNumData/FormatingAlphaNumData.csproj",
       "projectName": "FormatingAlphaNumData",
-      "projectPath": "/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/FormatingAlphaNumData.csproj",
-      "packagesPath": "/Users/elirucker/.nuget/packages/",
-      "outputPath": "/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/obj/",
+      "projectPath": "/home/eli/Development/CsharpSandbox/FormattingAlphaNumData/FormatingAlphaNumData.csproj",
+      "packagesPath": "/home/eli/.nuget/packages/",
+      "outputPath": "/home/eli/Development/CsharpSandbox/FormattingAlphaNumData/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/elirucker/.nuget/NuGet/NuGet.Config"
+        "/home/eli/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

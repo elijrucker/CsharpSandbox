@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+RVjkRfn8a4=",
+  "dgSpecHash": "ptqv1Qx8acHCo3LLLSDoMGzJ0YtXH7M1AMIVvrO+4TfBYKvyPpGrEnUikAZF3DBBuwRsKh5bwPGON2cwe60Ovg==",
   "success": true,
-  "projectFilePath": "/Users/elirucker/development/projects/CsharpProjects/FormatingAlphaNumData/FormatingAlphaNumData.csproj",
+  "projectFilePath": "/home/eli/Development/CsharpSandbox/FormattingAlphaNumData/FormatingAlphaNumData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
