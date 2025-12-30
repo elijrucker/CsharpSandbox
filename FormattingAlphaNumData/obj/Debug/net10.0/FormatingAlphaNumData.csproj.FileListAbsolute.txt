@@ -1,0 +1,15 @@
+/workspaces/CsharpSandbox/FormattingAlphaNumData/bin/Debug/net10.0/FormatingAlphaNumData
+/workspaces/CsharpSandbox/FormattingAlphaNumData/bin/Debug/net10.0/FormatingAlphaNumData.deps.json
+/workspaces/CsharpSandbox/FormattingAlphaNumData/bin/Debug/net10.0/FormatingAlphaNumData.runtimeconfig.json
+/workspaces/CsharpSandbox/FormattingAlphaNumData/bin/Debug/net10.0/FormatingAlphaNumData.dll
+/workspaces/CsharpSandbox/FormattingAlphaNumData/bin/Debug/net10.0/FormatingAlphaNumData.pdb
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.AssemblyInfoInputs.cache
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.AssemblyInfo.cs
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.csproj.CoreCompileInputs.cache
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.sourcelink.json
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.dll
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/refint/FormatingAlphaNumData.dll
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.pdb
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/FormatingAlphaNumData.genruntimeconfig.cache
+/workspaces/CsharpSandbox/FormattingAlphaNumData/obj/Debug/net10.0/ref/FormatingAlphaNumData.dll

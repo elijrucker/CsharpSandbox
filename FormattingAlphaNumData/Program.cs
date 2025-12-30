@@ -42,5 +42,48 @@
 
 // ## UNIT 4 OF 8 ##
 
-string input = "Pad this";
-System.Console.WriteLine(input.PadRight(12));
+// string input = "Pad this";
+// System.Console.WriteLine(input.PadRight(12));
+// Console.WriteLine(input.PadLeft(12, '-'));
+// Console.WriteLine(input.PadRight(12, '-'));
+
+// string paymentId = "769C";
+// string payeeName = "Mr. Stephen Ortega";
+// string paymentAmount = "$5,000.00";
+
+// var formattedLine = paymentId.PadRight(6);
+// formattedLine += payeeName.PadRight(24);
+// formattedLine += paymentAmount.PadLeft(10);
+
+// System.Console.WriteLine("1234567890123456789012345678901234567890");
+// System.Console.WriteLine(formattedLine);
+
+
+// ## UNIT 5 OF 8 ##
+
+string customerName = "Ms. Barros";
+
+string currentProduct = "Magic Yield";
+int currentShares = 2975000;
+decimal currentReturn = 0.1275m;
+decimal currentProfit = 55000000.0m;
+
+string newProduct = "Glorious Future";
+decimal newReturn = 0.13125m;
+decimal newProfit = 63000000.0m;
+
+// Your logic here
+string customerAddress = $"Dear {customerName},\nAs a customer of our {currentProduct}" +
+    "offering we are excited to tell you about a new financial product that would " +
+    "dramatically increase your return.\n\n";
+string customerProductData = $"Currently, you own {currentShares:N2} shares at a return of {currentReturn:P2}\n\n";
+string customerOffer = $"Our new product, {newProduct} offers a return of {newReturn:P2}. " +
+    $"Given your current volume, your potential profit would be {newProfit:C}.\n";
+System.Console.WriteLine(customerAddress + customerProductData + customerOffer);
+Console.WriteLine("Here's a quick comparison:\n");
+
+string comparisonMessage = "";
+
+// Your logic here
+
+Console.WriteLine(comparisonMessage);
