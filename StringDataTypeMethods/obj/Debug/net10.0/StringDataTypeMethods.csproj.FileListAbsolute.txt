@@ -1,0 +1,15 @@
+/workspaces/CsharpSandbox/StringDataTypeMethods/bin/Debug/net10.0/StringDataTypeMethods
+/workspaces/CsharpSandbox/StringDataTypeMethods/bin/Debug/net10.0/StringDataTypeMethods.deps.json
+/workspaces/CsharpSandbox/StringDataTypeMethods/bin/Debug/net10.0/StringDataTypeMethods.runtimeconfig.json
+/workspaces/CsharpSandbox/StringDataTypeMethods/bin/Debug/net10.0/StringDataTypeMethods.dll
+/workspaces/CsharpSandbox/StringDataTypeMethods/bin/Debug/net10.0/StringDataTypeMethods.pdb
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.AssemblyInfoInputs.cache
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.AssemblyInfo.cs
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.csproj.CoreCompileInputs.cache
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.sourcelink.json
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.dll
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/refint/StringDataTypeMethods.dll
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.pdb
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/StringDataTypeMethods.genruntimeconfig.cache
+/workspaces/CsharpSandbox/StringDataTypeMethods/obj/Debug/net10.0/ref/StringDataTypeMethods.dll
